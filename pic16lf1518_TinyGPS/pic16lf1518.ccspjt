@@ -1,0 +1,113 @@
+[PROJECT]
+Target=pic16lf1518.hex
+Processor_Text=PIC16LF1518
+CCSVerions=5.093
+Compiler=PCM
+CCSVersion=5.093
+[Target Data]
+FileList=pic16lf1518.c
+[Directories]
+Include=
+[C:\Users\panda\Desktop\pics\serial_pandoso\pic16lf1518]
+Type=4
+[mru-list]
+1=pic16lf1518.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=4
+D1=17-02-2021
+D1_L=28
+D1_L1=[54359]Project Opened.
+D1_L2=[54373]Started Editing.
+D1_L3=[56163]Stopped Editing.
+D1_L4=[56714]Started Editing.
+D1_L5=[57059]Stopped Editing.
+D1_L6=[57064]Started Editing.
+D1_L7=[57906]Stopped Editing.
+D1_L8=[57968]Started Editing.
+D1_L9=[58274]Stopped Editing.
+D1_L10=[58719]Started Editing.
+D1_L11=[60617]Stopped Editing.
+D1_L12=[60716]Started Editing.
+D1_L13=[60951]Stopped Editing.
+TotalEdit=122
+TotalDebug=0
+D1_E=87
+D1_D=0
+D1_L14=[60951]Project Closed.
+D1_L15=[60968]Project Opened.
+D1_L16=[60991]Project Closed.
+D1_L17=[61008]Project Opened.
+D1_L18=[61075]Started Editing.
+D1_L19=[61210]Stopped Editing.
+D1_L20=[61210]Project Closed.
+D1_L21=[74706]Project Opened.
+D1_L22=[74785]Started Editing.
+D1_L23=[75406]Stopped Editing.
+D1_L24=[75566]Started Editing.
+D1_L25=[75993]Stopped Editing.
+D1_L26=[76205]Started Editing.
+D1_L27=[76800]Stopped Editing.
+D1_L28=[76800]Project Closed.
+D2=18-02-2021
+D2_L=10
+D2_L1=[39127]Project Opened.
+D2_L2=[39157]Started Editing.
+D2_L3=[39910]Stopped Editing.
+D2_L4=[39929]Started Editing.
+D2_L5=[40092]Stopped Editing.
+D2_E=15
+D2_D=0
+D2_L6=[40240]Started Editing.
+D2_L7=[40468]Stopped Editing.
+D2_L8=[40468]Project Closed.
+D2_L9=[41741]Project Opened.
+D2_L10=[41761]Project Closed.
+D3=19-02-2021
+D3_L=4
+D3_L1=[40713]Project Opened.
+D3_L2=[40883]Started Editing.
+D3_L3=[40939]Stopped Editing.
+D3_E=1
+D3_D=0
+D3_L4=[40939]Project Closed.
+D4=22-02-2021
+D4_L=10
+D4_L1=[40625]Project Opened.
+D4_L2=[40687]Project Closed.
+D4_L3=[49471]Project Opened.
+D4_L4=[49555]Started Editing.
+D4_L5=[50026]Stopped Editing.
+D4_L6=[50207]Started Editing.
+D4_L7=[51185]Stopped Editing.
+D4_L8=[51748]Started Editing.
+D4_L9=[51996]Stopped Editing.
+D4_E=19
+D4_D=0
+D4_L10=[51996]Project Closed.
+
+[Opened Files]
+1=pic16lf1518.c
+t1=1
+Count=3
+2=pic16lf1518.h
+t2=1
+3=tinyGPS.h
+t3=414
+4=..\19756_TinyGPS\main.c
+t4=1
+5=tinyGPS.h
+t5=1
+6=..\serial222\main.c
+t6=1
+[pic16lf1518.c]
+Type=4
+
+[defines]
+buildcount=57
+[Units]
+Count=1
+1=pic16lf1518 (main)
