@@ -1,0 +1,122 @@
+ÀÄmain
+   ÀÄMAIN  1/587  Ram=15
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ@cinit2  (Inline)  Ram=0
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PSTRINGC7_892  0/79  Ram=5
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÀÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@delay_ms1  0/14  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@GETCH_BIU_1  0/19  Ram=0
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@delay_ms1  0/14  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄencode  0/101  Ram=5
+      ³  ÀÄterm_complete  0/640  Ram=4
+      ³     ÃÄfrom_hex  0/43  Ram=2
+      ³     ÃÄfrom_hex  0/43  Ram=2
+      ³     ÃÄgpsstrcmp  0/48  Ram=5
+      ³     ÃÄgpsstrcmp  0/48  Ram=5
+      ³     ÃÄ@goto47453  0/45  Ram=0
+      ³     ÃÄparse_decimal  0/183  Ram=10
+      ³     ³  ÃÄgpsatol  0/92  Ram=12
+      ³     ³  ³  ÃÄgpsisdigit  0/15  Ram=1
+      ³     ³  ³  ÀÄ@MUL3232  0/44  Ram=15
+      ³     ³  ÃÄ@MUL3232  0/44  Ram=15
+      ³     ³  ÃÄgpsisdigit  0/15  Ram=1
+      ³     ³  ÃÄgpsisdigit  0/15  Ram=1
+      ³     ³  ÃÄ@MUL88  0/39  Ram=2
+      ³     ³  ÀÄgpsisdigit  0/15  Ram=1
+      ³     ÃÄmillis  0/24  Ram=0
+      ³     ³  ÀÄ@MUL3232  0/44  Ram=15
+      ³     ÃÄparse_degrees  0/340  Ram=26
+      ³     ³  ÃÄgpsatol  0/92  Ram=12
+      ³     ³  ³  ÀÄ*
+      ³     ³  ÃÄ@DIV3232  0/81  Ram=14
+      ³     ³  ÃÄ@MUL3232  0/44  Ram=15
+      ³     ³  ÃÄgpsisdigit  0/15  Ram=1
+      ³     ³  ÃÄgpsisdigit  0/15  Ram=1
+      ³     ³  ÃÄ@MUL3232  0/44  Ram=15
+      ³     ³  ÃÄ@DIV3232  0/81  Ram=14
+      ³     ³  ÃÄ@DIV3232  0/81  Ram=14
+      ³     ³  ÃÄ@MUL3232  0/44  Ram=15
+      ³     ³  ÀÄ@DIV3232  0/81  Ram=14
+      ³     ÃÄmillis  0/24  Ram=0
+      ³     ³  ÀÄ*
+      ³     ÃÄparse_degrees  0/340  Ram=26
+      ³     ³  ÀÄ*
+      ³     ÃÄparse_decimal  0/183  Ram=10
+      ³     ³  ÀÄ*
+      ³     ÃÄparse_decimal  0/183  Ram=10
+      ³     ³  ÀÄ*
+      ³     ÃÄgpsatol  0/92  Ram=12
+      ³     ³  ÀÄ*
+      ³     ÃÄatoi  (Inline)  Ram=10
+      ³     ³  ÀÄ@MUL88  0/39  Ram=2
+      ³     ÃÄparse_decimal  0/183  Ram=10
+      ³     ³  ÀÄ*
+      ³     ÀÄparse_decimal  0/183  Ram=10
+      ³        ÀÄ*
+      ÃÄsatellites  (Inline)  Ram=0
+      ÃÄhdop  (Inline)  Ram=0
+      ÃÄf_get_position  1/276  Ram=16
+      ³  ÃÄget_position  (Inline)  Ram=12
+      ³  ³  ÀÄmillis  0/24  Ram=0
+      ³  ³     ÀÄ*
+      ³  ÃÄ@DTOF  0/29  Ram=4
+      ³  ÃÄ@DIVFF  1/205  Ram=16
+      ³  ÃÄ@DTOF  0/29  Ram=4
+      ³  ÀÄ@DIVFF  1/205  Ram=16
+      ÃÄ@FLT  0/65  Ram=10
+      ÃÄ@FLT  0/65  Ram=10
+      ÃÄsatellites  (Inline)  Ram=0
+      ÃÄhdop  (Inline)  Ram=0
+      ÃÄ@PSTRINGCN7_892  0/88  Ram=5
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÀÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PRINTF_L32D_892FPFPF  1/378  Ram=16
+      ³  ÃÄ@MULFF  (Inline)  Ram=16
+      ³  ÃÄ@FTOSD  (Inline)  Ram=5
+      ³  ÃÄ@DIV3232  0/81  Ram=14
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÀÄ@DIV3232  0/81  Ram=14
+      ÃÄ@PSTRINGCN7_892  0/88  Ram=5
+      ³  ÀÄ*
+      ÃÄ@PRINTF_L32D_892FPFPF  1/378  Ram=16
+      ³  ÀÄ*
+      ÃÄ@PSTRINGCN7_892  0/88  Ram=5
+      ³  ÀÄ*
+      ÃÄ@PRINTF_D_892  1/108  Ram=8
+      ³  ÃÄ@DIV88  1/23  Ram=3
+      ³  ÃÄ@DIV88  1/23  Ram=3
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÀÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÃÄ@PSTRINGCN7_892  0/88  Ram=5
+      ³  ÀÄ*
+      ÃÄ@PRINTF_L32D_892  1/162  Ram=16
+      ³  ÃÄ@DIV3232  0/81  Ram=14
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ³  ÀÄ@DIV3232  0/81  Ram=14
+      ÃÄ@PUTCHAR_BIU_1  0/9  Ram=1
+      ÀÄ@PUTCHAR_BIU_1  0/9  Ram=1
