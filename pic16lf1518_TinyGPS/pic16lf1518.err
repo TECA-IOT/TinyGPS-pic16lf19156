@@ -1,0 +1,16 @@
+Compiling C:\Users\panda\Desktop\pics\serial_pandoso\pic16lf1518 on 22-Feb-21 at 14:26
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 307(17,18): May be missing a break
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 308(12,13): May be missing a break
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 309(12,13): May be missing a break
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 319(26,27): May be missing a break
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 403(41,42): May be missing a break
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 411(41,42): May be missing a break
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 416(41,42): May be missing a break
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 421(41,42): May be missing a break
+>>> Warning 242 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 425(41,42): May be missing a break
+>>> Warning 202 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 84(22,44): Variable never used:   GPS_INVALID_F_ALTITUDE
+>>> Warning 202 "C:\Users\panda\Desktop\pics\serial_pandoso\tinyGPS.h" Line 85(22,41): Variable never used:   GPS_INVALID_F_SPEED
+>>> Warning 202 "C:\Users\panda\Desktop\pics\serial_pandoso\pic16lf1518.c" Line 9(5,10): Variable never used:   index
+      Memory usage:   ROM=23%      RAM=45% - 50%
+      0 Errors,  12 Warnings.
+Build Successful.
